@@ -5,14 +5,6 @@
             <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=48&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hello!+I'm+Jo%C3%A3o+Pereira.;Welcome+to+my+Github+page." alt="Typing SVG" />
         </a>
     </div>
-    <div id="badges">
-        <a href="https://linkedin.com/in/jpedro20">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="https://twitter.com/jotapedro2011">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-        </a>
-    </div>
     <div id="quotes">
         <a href="https://github.com/piyushsuthar/github-readme-quotes">
             <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -39,17 +31,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VStudio" width="40" height="40"/>&nbsp;
-        </div>
-    </div>
-    <br />
-    <div id="github-stats">
-        <h1>My Github Stats</h1>
-        <div id="stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=jpedro20&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&card_width=500" />
-            <br />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedro20&theme=github-dark-blue&card_width=500" />
-            <br />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro20&count_private=true&theme=github_dark&card_width=300" />
         </div>
     </div>
 </div>
